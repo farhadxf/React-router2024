@@ -1,4 +1,7 @@
-npm install
-run dev
+Run these commands to start the development server:
 
-and enjoy the setup!
+npm install
+
+npm run dev
+
+Enjoy the setup!
